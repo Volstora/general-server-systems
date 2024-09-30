@@ -3,7 +3,7 @@ This repo is the publically available information regarding system updates and c
 
 The system firmware is divided into EMS, system, and BMS software categories. 
 
-### [BMS SSV2 2.2.1] - 2024-07-29
+### [BMS SSV2 V28] - 2024-07-29
 This battery firmware update will significantly improve battery balancing time and long-term stability by using both calibration and priority-based logic. Additionally, the battery charging and discharge parameters are adjusted for more discrete scenarios in terms of temperature, max cell voltage, and min cell voltage. 
 
 #### Added
